@@ -32,4 +32,12 @@
 
 <Version: 2.00>
 /data/Map002.json https://raw.githubusercontent.com/LordRevan2/NSRGame/master/Map002.json
+/img/sv_actors/Ruta_1.png https://github.com/LordRevan2/NSRGame/blob/master/Ruta_1.png
+/img/sv_actors/Ruta_2.png https://github.com/LordRevan2/NSRGame/blob/master/Ruta_2.png
+/img/sv_actors/Ruta_3.png https://github.com/LordRevan2/NSRGame/blob/master/Ruta_3.png
+/img/sv_actors/Ruta_4.png https://github.com/LordRevan2/NSRGame/blob/master/Ruta_4.png
+/img/sv_actors/Ruta_5.png https://github.com/LordRevan2/NSRGame/blob/master/Ruta_5.png
+/img/sv_actors/Ruta_6.png https://github.com/LordRevan2/NSRGame/blob/master/Ruta_6.png
+/img/sv_actors/Ruta_7.png https://github.com/LordRevan2/NSRGame/blob/master/Ruta_7.png
+/img/sv_actors/Ruta_8.png https://github.com/LordRevan2/NSRGame/blob/master/Ruta_8.png
 <End of Version>
