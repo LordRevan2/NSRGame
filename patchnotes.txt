@@ -1,3 +1,5 @@
+1.03 "Graphics"
+  -Mejoras Visuales
 1.02 "The first"
- -Ciclo día-noche
- -Pruebas varias del juego
+  -Ciclo día-noche
+  -Pruebas varias del juego
