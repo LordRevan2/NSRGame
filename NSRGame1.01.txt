@@ -43,5 +43,5 @@
 <End of Version>
 
 <Version: 2.01>
-/js/plugins https://raw.githubusercontent.com/LordRevan2/NSRGame/master/YEP_PatchNotes.js
+/js/plugins/YEP_PatchNotes.js https://raw.githubusercontent.com/LordRevan2/NSRGame/master/YEP_PatchNotes.js
 <End of Version>
