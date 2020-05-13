@@ -6,3 +6,26 @@
 <Version: 1.02>
 /data/Map002.json https://raw.githubusercontent.com/LordRevan2/NSRGame/master/Map002.json
 <End of Version>
+
+<Version: 1.03 "Graphics">
+/img/faces/Animacion1.png https://github.com/LordRevan2/NSRGame/blob/master/Animacion1.png
+/img/faces/Animacion1.png https://github.com/LordRevan2/NSRGame/blob/master/Animacion2.png
+/img/sv_enemies/Tropero_Salvaje.png https://github.com/LordRevan2/NSRGame/blob/master/Tropero_Salvaje.png
+/img/sv_actors/animacion1_1.png https://github.com/LordRevan2/NSRGame/blob/master/animacion1_1.png
+/img/sv_actors/animacion1_2.png https://github.com/LordRevan2/NSRGame/blob/master/animacion1_2.png
+/img/sv_actors/animacion1_3.png https://github.com/LordRevan2/NSRGame/blob/master/animacion1_3.png
+/img/sv_actors/animacion1_4.png https://github.com/LordRevan2/NSRGame/blob/master/animacion1_4.png
+/img/sv_actors/animacion1_5.png https://github.com/LordRevan2/NSRGame/blob/master/animacion1_5.png
+/img/sv_actors/animacion1_6.png https://github.com/LordRevan2/NSRGame/blob/master/animacion1_6.png
+/img/sv_actors/animacion1_7.png https://github.com/LordRevan2/NSRGame/blob/master/animacion1_7.png
+/img/sv_actors/animacion1_8.png https://github.com/LordRevan2/NSRGame/blob/master/animacion1_8.png
+/img/sv_actors/Tropa_1.png https://github.com/LordRevan2/NSRGame/blob/master/Tropa_1.png
+/img/sv_actors/Tropa_2.png https://github.com/LordRevan2/NSRGame/blob/master/Tropa_2.png
+/img/sv_actors/Tropa_3.png https://github.com/LordRevan2/NSRGame/blob/master/Tropa_3.png
+/img/sv_actors/Tropa_4.png https://github.com/LordRevan2/NSRGame/blob/master/Tropa_4.png
+/img/sv_actors/Tropa_5.png https://github.com/LordRevan2/NSRGame/blob/master/Tropa_5.png
+/img/sv_actors/Tropa_6.png https://github.com/LordRevan2/NSRGame/blob/master/Tropa_6.png
+/img/sv_actors/Tropa_7.png https://github.com/LordRevan2/NSRGame/blob/master/Tropa_7.png
+/img/sv_actors/Tropa_8.png https://github.com/LordRevan2/NSRGame/blob/master/Tropa_8.png
+/patchnotes.txt https://raw.githubusercontent.com/LordRevan2/NSRGame/master/patchnotes.txt
+<End of Version>
