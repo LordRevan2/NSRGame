@@ -41,3 +41,7 @@
 /img/sv_actors/Ruta_7.png https://github.com/LordRevan2/NSRGame/blob/master/Ruta_7.png
 /img/sv_actors/Ruta_8.png https://github.com/LordRevan2/NSRGame/blob/master/Ruta_8.png
 <End of Version>
+
+<Version: 2.01>
+/js/plugins/YEP_PatchNotes.js https://raw.githubusercontent.com/LordRevan2/NSRGame/master/YEP_PatchNotes.js
+<End of Version>
