@@ -29,3 +29,7 @@
 /img/sv_actors/Tropa_8.png https://github.com/LordRevan2/NSRGame/blob/master/Tropa_8.png
 /patchnotes.txt https://raw.githubusercontent.com/LordRevan2/NSRGame/master/patchnotes.txt
 <End of Version>
+
+<Version: 2.00>
+/data/Map002.json https://raw.githubusercontent.com/LordRevan2/NSRGame/master/Map002.json
+<End of Version>
