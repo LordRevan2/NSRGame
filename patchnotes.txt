@@ -1,5 +1,2 @@
-1.03 "Graphics"
-  -Mejoras Visuales
-1.02 "The first"
-  -Ciclo día-noche
-  -Pruebas varias del juego
+2.01 Beta
+  -Pruebas
